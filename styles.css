@@ -1,0 +1,37 @@
+* {box-sizing: border-box;}
+img {max-width: 100%;}
+body {
+  background: #9299b6;
+}
+.wrapper {
+  background: #fff;
+  width: 800px;
+  margin: 0 auto;
+  display:block;
+  padding: 25px;
+  clear:both;
+}
+.section {
+  position: relative;
+}
+.section-content .content {
+  float:left;
+  width: 400px;
+  padding: 15px;
+}
+.section-header .button {
+  float:right;
+  text-decoration: none;
+  background: green;
+  color:white;
+  padding: 15px;
+  width: 180px;
+  border-radius: 8px;
+  text-align: center;
+  text-transform:uppercase;
+  font: normal 18px/1 sans-serif;
+}
+
+
+
+
